@@ -1,6 +1,6 @@
 # Python-Deep-Dive-Functions
 
-Assignment1:
+CaseStudy1:
 
 1. A Robot moves in a Plane starting from the origin point (0,0). The robot can move toward UP, DOWN, LEFT, RIGHT. The trace of Robot movement is as given following:
 UP 5
@@ -87,7 +87,7 @@ LOWER CASE 9
 15. Give example of fsum and sum function of math library.
 
 
-Assignment2:
+CaseStudy2:
 
 Case Study
 Domain – Banking Marketing
